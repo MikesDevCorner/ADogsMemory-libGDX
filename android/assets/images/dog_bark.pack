@@ -1,0 +1,283 @@
+
+dog_bark.png
+format: RGBA4444
+filter: MipMapLinearNearest,Nearest
+repeat: none
+dog_bark_sml
+  rotate: false
+  xy: 1, 395
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 0
+dog_bark_sml
+  rotate: false
+  xy: 1, 395
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 33
+dog_bark_sml
+  rotate: false
+  xy: 1, 1
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 1
+dog_bark_sml
+  rotate: false
+  xy: 395, 395
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 2
+dog_bark_sml
+  rotate: false
+  xy: 395, 1
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 3
+
+dog_bark2.png
+format: RGBA4444
+filter: MipMapLinearNearest,Nearest
+repeat: none
+dog_bark_sml
+  rotate: false
+  xy: 1, 395
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 4
+dog_bark_sml
+  rotate: false
+  xy: 1, 1
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 5
+dog_bark_sml
+  rotate: false
+  xy: 395, 395
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 6
+dog_bark_sml
+  rotate: false
+  xy: 395, 1
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 7
+
+dog_bark3.png
+format: RGBA4444
+filter: MipMapLinearNearest,Nearest
+repeat: none
+dog_bark_sml
+  rotate: false
+  xy: 1, 395
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 8
+dog_bark_sml
+  rotate: false
+  xy: 1, 1
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 9
+dog_bark_sml
+  rotate: false
+  xy: 395, 395
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 10
+dog_bark_sml
+  rotate: false
+  xy: 395, 1
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 11
+
+dog_bark4.png
+format: RGBA4444
+filter: MipMapLinearNearest,Nearest
+repeat: none
+dog_bark_sml
+  rotate: false
+  xy: 1, 395
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 12
+dog_bark_sml
+  rotate: false
+  xy: 1, 1
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 13
+dog_bark_sml
+  rotate: false
+  xy: 395, 395
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 14
+dog_bark_sml
+  rotate: false
+  xy: 395, 1
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 15
+
+dog_bark5.png
+format: RGBA4444
+filter: MipMapLinearNearest,Nearest
+repeat: none
+dog_bark_sml
+  rotate: false
+  xy: 1, 395
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 16
+dog_bark_sml
+  rotate: false
+  xy: 1, 1
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 17
+dog_bark_sml
+  rotate: false
+  xy: 395, 395
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 18
+dog_bark_sml
+  rotate: false
+  xy: 395, 1
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 19
+
+dog_bark6.png
+format: RGBA4444
+filter: MipMapLinearNearest,Nearest
+repeat: none
+dog_bark_sml
+  rotate: false
+  xy: 1, 395
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 20
+dog_bark_sml
+  rotate: false
+  xy: 1, 1
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 21
+dog_bark_sml
+  rotate: false
+  xy: 395, 395
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 22
+dog_bark_sml
+  rotate: false
+  xy: 395, 1
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 23
+
+dog_bark7.png
+format: RGBA4444
+filter: MipMapLinearNearest,Nearest
+repeat: none
+dog_bark_sml
+  rotate: false
+  xy: 1, 395
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 24
+dog_bark_sml
+  rotate: false
+  xy: 1, 1
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 25
+dog_bark_sml
+  rotate: false
+  xy: 395, 395
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 26
+dog_bark_sml
+  rotate: false
+  xy: 395, 1
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 27
+
+dog_bark8.png
+format: RGBA4444
+filter: MipMapLinearNearest,Nearest
+repeat: none
+dog_bark_sml
+  rotate: false
+  xy: 1, 395
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 28
+dog_bark_sml
+  rotate: false
+  xy: 1, 1
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 29
+dog_bark_sml
+  rotate: false
+  xy: 395, 395
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 30
+dog_bark_sml
+  rotate: false
+  xy: 395, 1
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 31
+
+dog_bark9.png
+format: RGBA4444
+filter: MipMapLinearNearest,Nearest
+repeat: none
+dog_bark_sml
+  rotate: false
+  xy: 1, 1
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: 32
