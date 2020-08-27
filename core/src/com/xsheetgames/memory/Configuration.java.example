@@ -1,4 +1,4 @@
-package com.xsheetgames.memory;
+/*package com.xsheetgames.memory;
 
 import com.badlogic.gdx.Application;
 
@@ -45,12 +45,13 @@ public class Configuration {
 			shareAdress = "https://play.google.com/store/apps/details?id=";
 		}
 		
-		/*****DEBUG CONFIGURATION****************************/
+		//*****DEBUG CONFIGURATION****************************
 		debugLevel = Application.LOG_ERROR;
 		//debugLevel = Application.LOG_DEBUG;
 		//debugLevel = Application.LOG_NONE;
 		//debugLevel = Application.LOG_INFO;
-		/***************************************************/
+		//***************************************************
 	}
 	
 }
+*/
