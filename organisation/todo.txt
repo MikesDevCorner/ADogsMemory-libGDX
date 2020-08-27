@@ -1,0 +1,50 @@
+c asset loader --> loading screen
+- resolution resolver
+c analytics sdk
+- 3d drehung
+- Werbung von server nachladen und anzeigen
+- Kartenlayouts überarbeiten (8,12,16,20)
+- Win / Lose Screen überarbeiten (3 Sterne, ...)
+- Regelset programmieren
+- Weltenauswahl programmieren (angepasstes Regelset: Leben, Previewtime)
+- Levelauswahl innerhalb Welt programmieren (8->12->16->20)
+
+
+
+Advanced Memory:
+2 Modi:
+
+- Schnelles Spiel:
+  - 1 Background
+  - Zeit (je nach Anzahl Karten)
+  - Leicht (8 Karten), Mittel (16 Karten), Schwer (24 Karten)
+  - Checkbox: One Shot
+
+
+- Story Modus:
+  - 1 Welt (= 1 Background)
+  - pro Welt, 7 Level
+  - 3 Welten (3 Backgrounds)
+
+  - 1. Level: 8 Karten (8 Versuche)
+  - 2. Level: 16 Karten (16 Versuche)
+  - 3. Level: 24 Karten (24 Versuche)
+  - 4. Level: 8 Karten (3 Minuten)
+  - 5. Level: 16 Karten (6 Minuten)
+  - 6. Level: 24 Karten (10 Minuten)
+  - 7. Level: One Shot (10 Sek. Previewzeit)
+
+Schwierigkeit zu Ändern:
+  - Zeit
+  - Fehlversuche
+  - Preview-Zeit
+  - Anzahl Karten
+
+
+Hautscreen:
+
+- Play: 
+    - Arcade --> Normal | One Shot + Auswahl für Kartenanzahl
+    - Story --> Weltauswahl --> Levelauswahl --> GameScreen
+- More --> Werbung zu anderen Spielen
+- Credits

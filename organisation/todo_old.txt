@@ -1,0 +1,12 @@
+- find some way to enable antialiasing for sprites in opengles1.x
+- fold winScreen, loseScreen and countScreen --> include into gameScreen
+- icon redesign
+- cards redesign
+- sprite animations: jump, bark, cry, happy
+- queue the touch input (deck --> handle input)
+- card turn / card rotate --> should be framerate independent --> delta time
+- rearrange sounds (maximize, master)
+- record win-sound
+- cut bark sound
+- record new play-button sound (doink)
+- update data relation-model

@@ -1,0 +1,205 @@
+
+dog_jump.png
+format: RGBA4444
+filter: MipMapLinearNearest,Nearest
+repeat: none
+dog_jump_up
+  rotate: false
+  xy: 1, 392
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 1
+dog_jump_up
+  rotate: false
+  xy: 1, 392
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 25
+dog_jump_up
+  rotate: false
+  xy: 1, 1
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 2
+dog_jump_up
+  rotate: false
+  xy: 392, 392
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 3
+dog_jump_up
+  rotate: false
+  xy: 392, 1
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 4
+
+dog_jump2.png
+format: RGBA4444
+filter: MipMapLinearNearest,Nearest
+repeat: none
+dog_jump_up
+  rotate: false
+  xy: 1, 392
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 5
+dog_jump_up
+  rotate: false
+  xy: 1, 1
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 6
+dog_jump_up
+  rotate: false
+  xy: 392, 392
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 7
+dog_jump_up
+  rotate: false
+  xy: 392, 1
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 8
+
+dog_jump3.png
+format: RGBA4444
+filter: MipMapLinearNearest,Nearest
+repeat: none
+dog_jump_up
+  rotate: false
+  xy: 1, 392
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 9
+dog_jump_up
+  rotate: false
+  xy: 1, 1
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 10
+dog_jump_up
+  rotate: false
+  xy: 392, 392
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 11
+dog_jump_up
+  rotate: false
+  xy: 392, 1
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 12
+
+dog_jump4.png
+format: RGBA4444
+filter: MipMapLinearNearest,Nearest
+repeat: none
+dog_jump_up
+  rotate: false
+  xy: 1, 392
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 13
+dog_jump_up
+  rotate: false
+  xy: 1, 1
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 14
+dog_jump_up
+  rotate: false
+  xy: 392, 392
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 15
+dog_jump_up
+  rotate: false
+  xy: 392, 1
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 16
+
+dog_jump5.png
+format: RGBA4444
+filter: MipMapLinearNearest,Nearest
+repeat: none
+dog_jump_up
+  rotate: false
+  xy: 1, 392
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 17
+dog_jump_up
+  rotate: false
+  xy: 1, 1
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 18
+dog_jump_up
+  rotate: false
+  xy: 392, 392
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 19
+dog_jump_up
+  rotate: false
+  xy: 392, 1
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 20
+
+dog_jump6.png
+format: RGBA4444
+filter: MipMapLinearNearest,Nearest
+repeat: none
+dog_jump_up
+  rotate: false
+  xy: 1, 392
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 21
+dog_jump_up
+  rotate: false
+  xy: 1, 1
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 22
+dog_jump_up
+  rotate: false
+  xy: 392, 392
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 23
+dog_jump_up
+  rotate: false
+  xy: 392, 1
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: 24
